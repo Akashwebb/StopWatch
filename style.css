@@ -1,0 +1,47 @@
+#stopwatch{
+    
+    margin-left: 140px;
+    margin-bottom: 20px;
+    margin-top: 70px;
+}
+.tt{
+    font-size: 50px;
+    font-weight: 700;
+    color: blue;
+}
+
+.bb{
+    padding: 10px 20px;
+    margin-left: 20px;
+}
+#start{
+    margin-left: 70px;
+    background: white;
+    color: Green;
+    font-weight: 800;
+    border: 4px solid green;
+}
+#pause{
+    background: white;
+    color: red;
+    font-weight: 800;
+    border: 4px solid red;
+}
+#resett{
+    background: white;
+    color: yellow;
+    font-weight: 800;
+    border: 4px solid yellow;
+}
+#cast{
+    background: white;
+    color:black;
+    font-weight: 800;
+    border: 4px solid black;
+}
+#dis{
+    font-size: 50px;
+    margin-left: 60px;
+    margin-top: 30px;
+    color: rgb(245, 109, 12);
+}
